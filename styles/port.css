@@ -1,0 +1,17 @@
+
+
+.roboto-normal {
+  font-family: "Roboto", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "wdth" 100;
+}
+
+
+
+/* nav styles */
+nav{
+    display: flex;
+}
